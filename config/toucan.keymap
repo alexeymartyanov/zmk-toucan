@@ -61,7 +61,7 @@
         nav {
             display-name = "NAV";
             bindings = <
-&kp TAB  &kp LS(N1)  &kp LS(N2)  &kp LS(N3)  &kp LS(N4)  &kp LS(N5)  &kp LS(N6)  &kp LS(N7)  &kp LS(N8)  &kp LS(N9)  &kp LS(N0)  &kp BSPC  &kp LCTRL  &trans  &trans  &trans  &trans  &kp PAGE_UP  &trans  &kp LEFT  &kp UP  &kp RIGHT  &trans  &kp DEL  &kp LSHFT  &studio_unlock  &trans  &trans  &trans  &kp PAGE_DOWN  &trans  &kp HOME  &kp DOWN  &kp END  &trans  &trans  &kp LGUI  &trans  &trans  &trans  &trans  &trans
+&kp TAB  &kp LS(N1)  &kp LS(N2)  &kp LS(N3)  &kp LS(N4)  &kp LS(N5)  &kp LS(N6)  &kp LS(N7)  &kp LS(N8)  &kp LS(N9)  &kp LS(N0)  &kp BSPC  &kp LCTRL  &trans  &trans  &trans  &trans  &kp PAGE_UP  &trans  &kp LEFT  &kp UP  &kp RIGHT  &trans  &kp DEL  &kp LSHFT  &studio_unlock  &trans  &trans  &trans  &kp PAGE_DOWN  &trans  &kp HOME  &kp DOWN  &kp END  &trans  &trans  &kp LGUI  &kp BACKSPACE  &trans  &trans  &trans  &trans
             >;
         };
 
